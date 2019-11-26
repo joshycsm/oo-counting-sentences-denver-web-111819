@@ -18,4 +18,4 @@ class String
 
   end
 end
-exclamation   
+exclamation
